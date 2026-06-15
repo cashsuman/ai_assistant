@@ -1,0 +1,4 @@
+Required Packages :
+     pip install groq python-dotenv
+api key:
+  create a apikey of your Llm model
